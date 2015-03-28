@@ -1,4 +1,4 @@
-#Campaign
+﻿#Campaign
 
 
 Campaign originally began with a combination of two prompts: __Monopoly__ and __Democracy__.
@@ -8,7 +8,7 @@ Campaign originally began with a combination of two prompts: __Monopoly__ and __
 The first iteration of this game involved players moving across the board to obtain districts and subsequently win the election.
 
 
-![Original Campaign](/images/Campaign_OG.png) 
+![Original Campaign](/images/Campaign_OG.png)
 
 
 ####How to play:
@@ -44,9 +44,6 @@ We decided that a card playing element to the game would be the most interesting
 
 
 ####Types of Cards:
-
-
-![Temporary Cards](/images/Playing_Cards.png) ![Temporary Board](/images/cribbage_board.jpg)
 
 
 __Political Strategies__ (equivalent of Magic Cards in YuGiOh)
@@ -100,9 +97,7 @@ __Materials__ (Prototype)
 Linear board (ex: cribbage board)
 
 
- playing_cards_by_fluffgar-d32tbch.png 
- cribbageTRAVEL.jpg 
-
+![Temporary Cards](/images/Playing_Cards.png) ![Temporary Board](/images/cribbage_board.jpg)
 
 
 __Concepts__
