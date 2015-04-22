@@ -26,7 +26,7 @@ Call it: **CONTROL_bricks.psd**
 
 Next make a lighter version of the original brick, and a darker version by adjusting the levels of the image (Ctrl+L). Save a new version of each so that you now have 3 images.
 
-![LightlBrick](images/brick_light.png) ![OrginalBrick](/images/brick_mid.png) ![DarkBrick](/images/brick_dark.png)
+![LightlBrick](images/brick_light.png) ![OrginalBrick](images/brick_mid.png) ![DarkBrick](images/brick_dark.png)
 
 For the next step, open up Maya. 
 
