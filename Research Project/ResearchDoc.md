@@ -40,7 +40,7 @@ Example:
 
 You can clearly see the repetition here, and it looks terrible.
 
-1. So, in your hypershade window in Maya, create __3 Ramp Nodes__.
+* So, in your hypershade window in Maya, create __3 Ramp Nodes__.
 
 ![3Ramps](images/Ramps.png)
 
@@ -58,7 +58,7 @@ The third will be like the first, but instead, the selected position will be 0.6
 
 ![Ramp3](images/Ramp3.png)
 
-2.  Create a new file node in the hypershade: **file1**.
+*  Create a new file node in the hypershade: **file1**.
 
 ![File1](images/File.png)
 
@@ -80,7 +80,7 @@ It will look something like this:
 
 ![connectedRamps](images/connected_ramps.png)
 
-3. Create Three more File nodes and select each of the brick textures as their images: dark, light, and original.
+* Create Three more File nodes and select each of the brick textures as their images: dark, light, and original.
 
 Now create three of these (Multiply Divide): 
 
@@ -90,7 +90,7 @@ Attach one Ramp to each Multiply my middle mouse clicking and dragging. When the
 
 ![connected_multiplies](images/multiplies.png)
 
-4. Now create a Layered Texture: 
+* Now create a Layered Texture: 
 
 ![LayeredTexture](images/Layered.png)
 
@@ -104,13 +104,13 @@ Change the blend mode of each to __add__.
 
 ![Blend_Mode](images/Blend_Mode_Add.png)
 
-5. Create a Lambert.
+* Create a Lambert.
 
 Middle mouse click and drag the Layered Texture to the Lambert and select Color in the menu.
 
 It’s all connected. 
 
-6. Create a Polycube and apply the lambert by middle mouse dragging to see how it looks. 
+* Create a Polycube and apply the lambert by middle mouse dragging to see how it looks. 
 
 It might not looks quite right yet. 
 
