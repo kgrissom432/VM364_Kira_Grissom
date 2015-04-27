@@ -8,7 +8,7 @@ Campaign originally began with a combination of two prompts: __Monopoly__ and __
 The first iteration of this game involved players moving across the board to obtain districts and subsequently win the election.
 
 
-![Original Campaign](/images/Campaign_OG.png)
+![Original Campaign](images/Campaign_OG.png)
 
 
 ####How to play:
@@ -97,7 +97,7 @@ __Materials__ (Prototype)
 Linear board (ex: cribbage board)
 
 
-![Temporary Cards](/images/Playing_Cards.png) ![Temporary Board](/images/cribbage_board.jpg)
+![Temporary Cards](images/Playing_Cards.png) ![Temporary Board](images/cribbage_board.jpg)
 
 
 __Concepts__
