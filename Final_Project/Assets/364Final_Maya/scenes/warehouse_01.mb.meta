@@ -25,6 +25,8 @@ ModelImporter:
     100038: //RootNode
     100040: window_beams_left
     100042: window_beams_right
+    100044: BRICK_MAT_TEST_pCube1
+    100046: place3dTexture1
     400000: back
     400002: back_wall
     400004: bottom
@@ -47,6 +49,8 @@ ModelImporter:
     400038: //RootNode
     400040: window_beams_left
     400042: window_beams_right
+    400044: BRICK_MAT_TEST_pCube1
+    400046: place3dTexture1
     2300000: back_wall
     2300002: frontwall
     2300004: pCube1
@@ -60,6 +64,7 @@ ModelImporter:
     2300020: topbeams
     2300022: window_beams_left
     2300024: window_beams_right
+    2300026: BRICK_MAT_TEST_pCube1
     3300000: back_wall
     3300002: frontwall
     3300004: pCube1
@@ -73,6 +78,7 @@ ModelImporter:
     3300020: topbeams
     3300022: window_beams_left
     3300024: window_beams_right
+    3300026: BRICK_MAT_TEST_pCube1
     4300000: back_wall
     4300002: sidewalls
     4300004: support_beams
@@ -86,6 +92,7 @@ ModelImporter:
     4300020: pCube1
     4300022: pCube2
     4300024: pCube3
+    4300026: BRICK_MAT_TEST_pCube1
     9500000: //RootNode
   materials:
     importMaterials: 1
