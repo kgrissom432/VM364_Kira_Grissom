@@ -1,5 +1,8 @@
 private var motor : CharacterMotor;
 
+public var flagone : int = 0;
+public var flagtwo : int = 0;
+
 // Use this for initialization
 function Awake () {
 	motor = GetComponent(CharacterMotor);
@@ -35,3 +38,39 @@ function Update () {
 // Require a character controller to be attached to the same game object
 @script RequireComponent (CharacterMotor)
 @script AddComponentMenu ("Character/FPS Input Controller")
+
+function OnTriggerEnter( other : Collider ) 
+{ 
+if (other.tag == "TV" || other.tag == "desk") 
+{  
+if (flagone == 0)
+{
+flagone = 1;
+return;
+}
+else if (flagtwo == 0)
+{
+flagtwo = 1;
+return;
+}
+else 
+{
+if (other.tag == "Bed")
+{
+return;
+}
+}
+}
+}
+function OnTriggerEnter (other : BoxCollider )
+{
+if ( other.tag == "Warehouse" && flagtwo == 1 )
+{
+other.enabled = false;
+return;
+}
+else
+{
+return;
+}
+}
